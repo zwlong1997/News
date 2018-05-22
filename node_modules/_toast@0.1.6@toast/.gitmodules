@@ -1,0 +1,3 @@
+[submodule "tasks/init"]
+	path = tasks/init
+	url = https://github.com/toastjs/init.git
